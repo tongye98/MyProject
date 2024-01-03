@@ -1,0 +1,4 @@
+# 一个较新的配置文件格式，旨在提供一个统一的方法来配置python项目和他们的构建工具依赖
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

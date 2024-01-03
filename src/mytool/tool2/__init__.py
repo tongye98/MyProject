@@ -1,0 +1,1 @@
+from mytool.tool2.exec2 import print_tool2
